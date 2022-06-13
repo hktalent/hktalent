@@ -4,5 +4,5 @@
 <br>
 <img align=left src=https://profile-counter.glitch.me/hktalent/count.svg>
 <br>
-<a href="https://github.com/hktalent?tab=repositories&q=&type=&language=&sort=stargazers">sort star for me</a><br>
-<a href="https://github.com/hktalent?tab=repositories&q=&type=&language=&sort=stargazers">sort last update for me</a>
+<a href="https://github.com/hktalent?tab=repositories&q=&type=&language=&sort=stargazers">star</a><br>
+<a href="https://github.com/hktalent?tab=repositories&q=&type=&language=&sort=stargazers">last update</a>
