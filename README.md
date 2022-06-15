@@ -3,11 +3,11 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=hktalent&theme=nord&row=1&column=6)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hktalent&theme=solarized)
-[![](https://raw.githubusercontent.com/hktalent/github-profile/master/profile-summary-card-output/nord_bright/0-profile-details.svg)]
-[![](https://raw.githubusercontent.com/hktalent/github-profile/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)]
-[![](https://raw.githubusercontent.com/hktalent/github-profile/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)]
-[![](https://raw.githubusercontent.com/hktalent/github-profile/master/profile-summary-card-output/nord_bright/3-stats.svg)]
-[![](https://raw.githubusercontent.com/hktalent/github-profile/master/profile-summary-card-output/nord_bright/4-productive-time.svg)]
+![](https://raw.githubusercontent.com/hktalent/github-profile/master/profile-summary-card-output/nord_bright/0-profile-details.svg)
+![](https://raw.githubusercontent.com/hktalent/github-profile/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/hktalent/github-profile/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/hktalent/github-profile/master/profile-summary-card-output/nord_bright/3-stats.svg)
+![](https://raw.githubusercontent.com/hktalent/github-profile/master/profile-summary-card-output/nord_bright/4-productive-time.svg)
 
 <br>
 <img align=left src=https://profile-counter.glitch.me/hktalent/count.svg>
