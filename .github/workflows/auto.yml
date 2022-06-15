@@ -14,8 +14,8 @@ jobs:
     - uses: actions/checkout@master
     - uses: hktalent/github-profile-terminal-action@main
       with:
-        feed_url: https://sumsec.me/resources/sitemap.xml
-        twitter_username: SecSummers
+        feed_url: https://51pwn.com
+        twitter_username: Hktalent3135773
         theme: dark
         token: ${{ secrets.RELEASE }}
         file_path: README.md
