@@ -1,4 +1,4 @@
-name: 🚨 auto-update
+name: auto-update
 
 on:
   workflow_dispatch:
@@ -30,7 +30,7 @@ jobs:
     - name: push github-contribution-grid-snake.svg to the output branch
       uses: crazy-max/ghaction-github-pages@v2.6.0
       with:
-        target_branch: master
+        target_branch: main
         author: hktalent 
         build_dir: .
       env:
