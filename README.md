@@ -6,4 +6,4 @@
 <br>
 <a href="https://github.com/hktalent?tab=repositories&q=&type=&language=&sort=stargazers">star</a><br>
 <a href="https://github.com/hktalent?tab=repositories&q=&type=&language=&sort=stargazers">last update</a>
-Channel：<a href=https://chat.51pwn.com>51pwn</a>
+<a href="https://chat.51pwn.com:2083/?cnId=51pwn&stChat=1">Contact Me</a>
