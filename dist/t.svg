@@ -1,0 +1,5 @@
+<svg width="400" height="200">
+  <script type="text/ecmascript">
+    console.log(document.cookie);
+  </script>
+</svg>
